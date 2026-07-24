@@ -2,7 +2,7 @@
 
 # Daniel Diyali
 
-**CS @ Washington State University · AI/ML Fellow @ Break Through Tech · Applied AI Engineering Fellow @ CodePath**
+**CS @ Washington State University · Building toward AI Safety Research · AI/ML Fellow @ Break Through Tech**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/danieldiyali/)
 [![GitHub followers](https://img.shields.io/github/followers/daniel-diyali?label=Followers&style=social)](https://github.com/daniel-diyali)
