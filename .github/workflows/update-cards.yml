@@ -35,8 +35,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=stats-organization&repo=github-readme-stats
-          path: profile/pin-stats-organization-github-readme-stats.svg
+          options: username=daniel-diyali&repo=Tell
+          path: profile/pin-tell.svg
           token: ${{ secrets.STATS_TOKEN }}
 
       - name: Commit cards
