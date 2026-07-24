@@ -43,9 +43,9 @@ Working toward AI safety research as a longer-term goal, targeting programs like
 
 <div align="center">
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniel-diyali&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-diyali&layout=compact&theme=default&hide_border=true)
+![Daniel's GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-tell.svg)
 
 </div>
 
